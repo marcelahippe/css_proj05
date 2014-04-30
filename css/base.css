@@ -6,6 +6,7 @@
 h1 {
 	margin: 0;
 	padding: 0;
+	clear: both;
 }
 
 .header {
@@ -130,6 +131,7 @@ footer p {
 .btn-menu-mobile {
 	display: none;
 }
+
 
 /* ................. Esconder o menu em tela pequena ............... */
 
